@@ -1,55 +1,43 @@
-<<<<<<< HEAD
-# 🚤 Boat Race Game
+# 🚤 Boat Racing Game
 
-A 3D boat racing game built in **Unity**, where players control boats and race across dynamic water environments filled with obstacles and power-ups. Experience smooth controls, realistic water physics, and intense racing gameplay.
+A 3D boat racing game developed with **Unity** and **C#**. The project focuses on boat movement, racing gameplay, and a 3D environment.
 
+## 🎮 Features
 
-## 🧠 Features
+- Boat racing gameplay
+- Keyboard controls
+- 3D game environment
+- Obstacles and race-track elements
+- Audio and sound effects
 
-- 🛥️ Smooth and responsive boat controls
-- 🌊 Dynamic water physics using Unity's physics engine
-- 🧱 Randomly generated obstacles and race tracks
-- ⚡ Power-ups and speed boosts
-- 🎮 Gamepad and keyboard support
-- 🎵 Background sound and SFX
-- 🧠 Optional AI racers or multiplayer mode
+> Feature details should be updated to match the final playable build and the controls implemented in the project.
 
----
+## 🛠️ Built With
 
-## 💻 Built With
-
-| Tool/Tech | Description                  |
-|-----------|------------------------------|
-| Unity     | Game engine (version 6.0.45)  |
-| C#        | Scripting                    |
-| Blender   | Custom 3D assets  |
-| [Other]   | Particle FX, Sound, etc.     |
-
----
+- **Unity** – Game engine
+- **C#** – Gameplay scripting
+- **Blender** – 3D asset creation
 
 ## 📁 Project Structure
 
-```bash
-BoatRaceGame/
-├── Assets/
-│   ├── Scripts/
-│   ├── Scenes/
-│   ├── Prefabs/
-│   ├── Materials/
-│   └── Audio/
-├── ProjectSettings/
-├── Packages/
-├── README.md
-└── BoatRaceGame.sln
+The Unity project contains the usual development assets and configuration, including scripts, scenes, prefabs, materials, and project settings.
 
-## 🤝 Contributors
+## 👥 Contributors
 
-We thank the following contributors for their efforts in making this project possible:
+- Aya Ragab
+- Amira Ahmed
+- Shahd Aboud
+- Merna Ayman
 
-- **[Aya Ragab]**
-- **[Amira Ahmed]**
-- **[Shahd Aboud]**
-- **[Merna Ayman]**
-=======
-# BoatRace
->>>>>>> 6311b52c210cc09257018b0ad45ba6539107740a
+## ▶️ Getting Started
+
+1. Clone or download this repository.
+2. Open the project using a compatible Unity Editor version.
+3. Open the main game scene from the **Assets/Scenes** folder.
+4. Press **Play** in the Unity Editor to run the game.
+
+> If the main scene is located elsewhere, update this instruction to its actual path.
+
+## 📌 Notes
+
+This repository contains a Unity game project. Make sure Git LFS is configured if the project uses large binary assets.
