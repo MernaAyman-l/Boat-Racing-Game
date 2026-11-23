@@ -10,7 +10,7 @@ A 3D boat racing game developed with **Unity** and **C#**. The project focuses o
 - Obstacles and race-track elements
 - Audio and sound effects
 
-> Feature details should be updated to match the final playable build and the controls implemented in the project.
+The repository includes gameplay scripts for player control, camera movement, coin spawning, finish triggers, and UI management. Confirm the exact controls and full gameplay flow in the Unity Editor before using this as a complete gameplay guide.
 
 ## 🛠️ Built With
 
@@ -20,7 +20,7 @@ A 3D boat racing game developed with **Unity** and **C#**. The project focuses o
 
 ## 📁 Project Structure
 
-The Unity project contains the usual development assets and configuration, including scripts, scenes, prefabs, materials, and project settings.
+The repository includes gameplay scripts, scenes, assets, packages, and project settings. Main scenes: `Assets/Scenes/mainMenu.unity`, `Assets/Scenes/Level1.unity`, and `Assets/Scenes/Level2.unity`.
 
 ## 👥 Contributors
 
@@ -32,11 +32,9 @@ The Unity project contains the usual development assets and configuration, inclu
 ## ▶️ Getting Started
 
 1. Clone or download this repository.
-2. Open the project using a compatible Unity Editor version.
-3. Open the main game scene from the **Assets/Scenes** folder.
-4. Press **Play** in the Unity Editor to run the game.
-
-> If the main scene is located elsewhere, update this instruction to its actual path.
+2. Open the project using **Unity 6000.0.45f1** or a compatible version.
+3. Open `Assets/Scenes/mainMenu.unity` to start from the main menu, or open `Level1.unity` / `Level2.unity` directly.
+4. Press **Play** in the Unity Editor to run the selected scene.
 
 ## 📌 Notes
 
